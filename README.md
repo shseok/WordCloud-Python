@@ -52,8 +52,8 @@ POSTMAN
 cmd창 -> echo %JAVA_HOME%
 ```
 * JVM(자바)와 파이썬의 비트(버전)가 맞아야 한다. (ex. 64bit)
-
 * konlpy 오류시 아래 경로에서 Jpype를 파이썬 버젼에 맞게 다운로드
+  * 파이썬 3.7 버젼인 경우, ' JPype1-1.1.2-cp37-cp37m-win_amd64.whl ' 파일을 프로젝트 경로에 다운로드 후 pip install
 * 파이썬에 충분히 익숙해진 상태여야한다
 ## 도움 받은 사이트 (ref)
 
